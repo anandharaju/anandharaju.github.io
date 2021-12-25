@@ -1,4 +1,10 @@
-var passage_data = "I am Kaumil Trivedi. My name is Kaumil Trivedi. I was born on 4th of July,1997 at Ahmedabad, India. I am 24yrs old.I am currently doing Masters in Computer Science (Big Data Specialization) at Simon Fraser University. I have 2.5yrs of professional work experience.I have experience in the fields of Data Science, Machine Learning and Deep Learing. My skills include Python, Tensorflow, PyTorch, Django, Flask, MySQL, MongoDB, Docker and AWS. I have done projects on face-emotion recognition, sentiment analysis, and blogging platform. I have gotten certifications from Amazon Web Services, deeplearning.ai, Stanford University and Indian Institute of Technology in the domains of Cloud Computing, Deep Learning, Machine Learning and Data Science. I have published a paper on Hybrid Binary Classifiers using SVMs and Decision Trees. I have had the opportunity to give an interview at R3plica on AI. My previous work experience was at Areli Commerce Private Limited, Turabit Solutions Pvt Ltd and Softvan Inc. I am currently studying Professional Masters in Computing Science, Big Data Specialization."
+var passage_data = "I am Anand. My full name is Anandharaju Durai Raju. I was born and brought up in Tamilnadu, India. "
++ "I am currently pursuing Ph.D. in Computer Science at Simon Fraser University with specialization on Data Mining, Cybersecurity and Deep Learning. "
++ "I have 7+yrs of professional work experience.I have worked in dynamic enviroments including handling new module development, change requests, handling incident response, and production support."
++ "My recent skills include Python, Tensorflow, Keras, PyTorch, Docker, and disassembler tools like Radare2. "
++ "I had undergone a year-long research based internship at Huawei aimed at identifying novel methods for malware detection from assembly information. "
++ "I have gotten certifications from Amazon Web Services, deeplearning.ai, Stanford University and Indian Institute of Technology in the domains of Cloud Computing, Deep Learning, Machine Learning and Data Science. "
++ "I have published research papers and survey papers that can be found in the Publication section. "
 
 
 $(document).on('focus', '.panel-footer input.chat_input', function (e) {
