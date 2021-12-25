@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Python on Kaumil Trivedi</title>
+    <link>https://kaumil.github.io/tags/python/</link>
+    <description>Recent content in Python on Kaumil Trivedi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://kaumil.github.io/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Data Structures and Algorithms using Python by IIT Madras</title>
+      <link>https://kaumil.github.io/certifications/nptelpython/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kaumil.github.io/certifications/nptelpython/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Python 3: Deep Dive (Part 1-Functional)</title>
+      <link>https://kaumil.github.io/certifications/pythondeepdive1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kaumil.github.io/certifications/pythondeepdive1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spark and Python for Big Data with PySpark</title>
+      <link>https://kaumil.github.io/certifications/udemysparkpython/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kaumil.github.io/certifications/udemysparkpython/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Taming Big Data with Apache Spark and Python - Hands On!</title>
+      <link>https://kaumil.github.io/certifications/udemytamingbigdata/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kaumil.github.io/certifications/udemytamingbigdata/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

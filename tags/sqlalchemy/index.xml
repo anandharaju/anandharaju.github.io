@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SQLAlchemy on Kaumil Trivedi</title>
+    <link>https://kaumil.github.io/tags/sqlalchemy/</link>
+    <description>Recent content in SQLAlchemy on Kaumil Trivedi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://kaumil.github.io/tags/sqlalchemy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blogging website</title>
+      <link>https://kaumil.github.io/projects/creations/flask_microblog/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kaumil.github.io/projects/creations/flask_microblog/</guid>
+      <description>Established a mechanism for a user to follow different people and have the posts of the followed people on the home page. Established an &amp;ldquo;Explore&amp;rdquo; feature where a user can explore different posts from all the users on the website in a descending order of the post timestamp. Established a &amp;ldquo;Search&amp;rdquo; feature using Elasticsearch where people can search for a keyword and have relevant posts displayed.
+Github link: https://github.com/kaumil/flask-blog</description>
+    </item>
+    
+  </channel>
+</rss>

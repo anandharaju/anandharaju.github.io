@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sequence Models on Kaumil Trivedi</title>
+    <link>https://kaumil.github.io/tags/sequence-models/</link>
+    <description>Recent content in Sequence Models on Kaumil Trivedi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://kaumil.github.io/tags/sequence-models/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Deep Learning Specialization by deeplearning.ai</title>
+      <link>https://kaumil.github.io/certifications/deeplearningspecialization/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kaumil.github.io/certifications/deeplearningspecialization/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Advanced Python on Kaumil Trivedi</title>
+    <link>https://kaumil.github.io/tags/advanced-python/</link>
+    <description>Recent content in Advanced Python on Kaumil Trivedi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://kaumil.github.io/tags/advanced-python/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Python 3: Deep Dive (Part 1-Functional)</title>
+      <link>https://kaumil.github.io/certifications/pythondeepdive1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kaumil.github.io/certifications/pythondeepdive1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

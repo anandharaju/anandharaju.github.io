@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Flask on Kaumil Trivedi</title>
+    <link>https://kaumil.github.io/tags/flask/</link>
+    <description>Recent content in Flask on Kaumil Trivedi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 11 Feb 2018 12:41:05 -0500</lastBuildDate><atom:link href="https://kaumil.github.io/tags/flask/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Emof_AI</title>
+      <link>https://kaumil.github.io/projects/creations/emofai/</link>
+      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
+      
+      <guid>https://kaumil.github.io/projects/creations/emofai/</guid>
+      <description>Emof_ai is a web API which takes a sample video as an input, detects all the faces in each frame of the video and performs classfication. It classifies the emotion of the face into 1 of 8 emotions viz anger, disgust, fear, happy, sad, surprise, neutral and none(this is when there are no faces detected in the frame at all and hence none means no emotion detected in the frame at all).</description>
+    </item>
+    
+    <item>
+      <title>Blogging website</title>
+      <link>https://kaumil.github.io/projects/creations/flask_microblog/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kaumil.github.io/projects/creations/flask_microblog/</guid>
+      <description>Established a mechanism for a user to follow different people and have the posts of the followed people on the home page. Established an &amp;ldquo;Explore&amp;rdquo; feature where a user can explore different posts from all the users on the website in a descending order of the post timestamp. Established a &amp;ldquo;Search&amp;rdquo; feature using Elasticsearch where people can search for a keyword and have relevant posts displayed.
+Github link: https://github.com/kaumil/flask-blog</description>
+    </item>
+    
+    <item>
+      <title>Sentiment Analyzer</title>
+      <link>https://kaumil.github.io/projects/creations/cnn_sentiment_analysis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kaumil.github.io/projects/creations/cnn_sentiment_analysis/</guid>
+      <description>Sentiment Analyzer is a ML model as a service made using Flask micro framework. The task is a binary classification problem where I employed CNNs to have a validation accuracy of 84.73% and validation loss of 0.3624. The application serves 2 pipeline: 1 pipeline where the model versions are trained using the jupyter notebook in the sentiment_analysis subfolder. The second pipeline is the inference pipeline where using a config file, Tensorflow Serving is used to deploy that model on a different docker container.</description>
+    </item>
+    
+  </channel>
+</rss>

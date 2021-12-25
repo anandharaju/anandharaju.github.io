@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="google-site-verification" content="QEKqpRBJIE4xrrQX6aXqU2mmDJKfEsuiYpnfLdvF2fY" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <title>Kaumil Trivedi | Emof_AI</title>
+  <meta property="og:title" content="Kaumil Trivedi | Emof_AI" />
+  <meta property="og:image" content="https://kaumil.github.io/img/profile_pic.jpg" />
+  <meta name="description" content="Emof_ai is a web API which takes a sample video as an input, detects all the faces in each frame of the video and performs classfication. It classifies the emotion of the face into 1 of 8 emotions viz anger, disgust, fear, happy, sad, surprise, neutral and none(this is when there are no faces detected in the frame at all and hence none means no emotion detected in the frame at all). It also classifies the gender of the person. In addition to that, it also classifies the age group of the person into 1 of 4 age groups viz adult, child, old and youth.">
+  <meta property="og:description" content="Emof_ai is a web API which takes a sample video as an input, detects all the faces in each frame of the video and performs classfication. It classifies the emotion of the face into 1 of 8 emotions viz anger, disgust, fear, happy, sad, surprise, neutral and none(this is when there are no faces detected in the frame at all and hence none means no emotion detected in the frame at all). It also classifies the gender of the person. In addition to that, it also classifies the age group of the person into 1 of 4 age groups viz adult, child, old and youth." />
+  <meta name="author" content="Kaumil Trivedi">
+  
+  <link rel="preload" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0/css/bootstrap.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <noscript><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0/css/bootstrap.min.css"></noscript>
+  
+  <link rel="preload" href="https://fonts.googleapis.com/css?family=Saira+Extra+Condensed:100,200,300,400,500,600,700,800,900&display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Saira+Extra+Condensed:100,200,300,400,500,600,700,800,900&display=swap"></noscript>
+  <link rel="preload" href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i&display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'">
+      <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i&display=swap"></noscript>
+  <link rel="preload" href="https://use.fontawesome.com/releases/v5.12.1/css/all.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <noscript><link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.12.1/css/all.css"></noscript>
+  <link rel="preload" href="https://cdnjs.cloudflare.com/ajax/libs/devicons/1.8.0/css/devicons.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <noscript><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/devicons/1.8.0/css/devicons.min.css"></noscript>
+  <link rel="preload" href="https://cdnjs.cloudflare.com/ajax/libs/simple-line-icons/2.4.1/css/simple-line-icons.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <noscript><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/simple-line-icons/2.4.1/css/simple-line-icons.min.css"></noscript>
+  
+  <link rel="preload" href="https://kaumil.github.io/css/resume.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <noscript><link rel="stylesheet" href="https://kaumil.github.io/css/resume.css"></noscript>
+  <link rel="preload" href="https://kaumil.github.io/css/lightbox.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <noscript><link rel="stylesheet" href="https://kaumil.github.io/css/lightbox.min.css"></noscript>
+  <link rel="preload" href="https://kaumil.github.io/css/tweaks.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <noscript><link rel="stylesheet" href="https://kaumil.github.io/css/tweaks.css"></noscript>
+  <link rel="preload" href="https://kaumil.github.io/css/resume-override.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <noscript><link rel="stylesheet" href="https://kaumil.github.io/css/resume-override.css"></noscript>
+  <script src="https://code.iconify.design/1/1.0.7/iconify.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs"> </script>
+  
+  <script src="https://cdn.jsdelivr.net/npm/@tensorflow-models/qna"> </script>
+  <meta name="generator" content="Hugo 0.89.4" />
+  
+   
+  
+</head>
+<body id="page-top">
+  <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top" id="sideNav">
+  <a class="navbar-brand js-scroll-trigger" href="#page-top">
+    <span class="d-block d-lg-none">Kaumil Trivedi</span>
+    <span class="d-none d-lg-block">
+      <img class="img-fluid img-profile rounded-circle mx-auto mb-2" src="https://kaumil.github.io/img/profile_pic.jpg" alt="">
+    </span>
+  </a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+    <ul class="navbar-nav">
+      <li class="nav-item">
+        <a class="nav-link js-scroll-trigger" href="https://kaumil.github.io/#about" id="link-about">About</a>
+      </li>
+      
+          <li class="nav-item">
+            <a class="nav-link js-scroll-trigger" href="https://kaumil.github.io/#skills" id="link-skills">Skills</a>
+          </li>
+      
+      
+          <li class="nav-item">
+            <a class="nav-link js-scroll-trigger" href="https://kaumil.github.io/#projects" id="link-projects">Projects</a>
+          </li>
+      
+      
+      
+          <li class="nav-item">
+            <a class="nav-link js-scroll-trigger" href="https://kaumil.github.io/#Certifications" id="link-certifications">Certifications</a>
+          </li>
+      
+      
+          <li class="nav-item">
+            <a class="nav-link js-scroll-trigger" href="https://kaumil.github.io/#Publications" id="link-publications">Publications</a>
+          </li>
+      
+      
+          <li class="nav-item">
+            <a class="nav-link js-scroll-trigger" href="https://kaumil.github.io/#Articles" id="link-articles">Articles</a>
+          </li>
+      
+      
+          <li class="nav-item">
+            <a class="nav-link js-scroll-trigger" href="https://kaumil.github.io/#experience" id="link-experience">Experience</a>
+          </li>
+      
+      
+          <li class="nav-item">
+            <a class="nav-link js-scroll-trigger" href="https://kaumil.github.io/#education" id="link-education">Education</a>
+          </li>
+      
+      
+    </ul>
+  </div>
+</nav>
+
+  <div class="container p-0">
+    <div class="row">
+      <div class="col">
+        
+<nav aria-label="breadcrumb">
+  <ol  class="breadcrumb">
+    
+
+
+
+
+
+
+
+<li class="breadcrumb-item">
+  <a href="https://kaumil.github.io/">Home</a>
+</li>
+
+
+<li class="breadcrumb-item">
+  <a href="https://kaumil.github.io/projects/">Projects</a>
+</li>
+
+
+<li class="breadcrumb-item">
+  <a href="https://kaumil.github.io/projects/creations/">Projects</a>
+</li>
+
+
+<li class="breadcrumb-item active">
+  <a href="https://kaumil.github.io/projects/creations/emofai/">Emof_AI</a>
+</li>
+
+  </ol>
+</nav>
+
+
+
+
+<section class="resume-section p-3 p-lg-5 d-flex d-column">
+  <div class="my-auto">
+    <h2 class="mb-0"><span class="text-primary">Emof_AI</span></h2>
+    <p>Emof_ai is a web API which takes a sample video as an input, detects all the faces in each frame of the video and performs classfication. It classifies the emotion of the face into 1 of 8 emotions viz anger, disgust, fear, happy, sad, surprise, neutral and none(this is when there are no faces detected in the frame at all and hence none means no emotion detected in the frame at all). It also classifies the gender of the person. In addition to that, it also classifies the age group of the person into 1 of 4 age groups viz adult, child, old and youth.</p>
+<p>There are 3 models for each of the 3 tasks. The face detection is done using haarcascade xml and the classification is done using 3 convolutional neural networks, each for one of the 3 tasks and made up of 5 layers. After the processing of the video is done, a data analysis graph is constructed and shown which determines the percent count of each emotion in the video. The percentage of each emotion shows the percentage of detection boxes detected with that emotion. Each emotion is grouped by the gender and the age group. Flask framework is used for the creation of the web API.</p>
+
+    <p>Project link: <a href="https://github.com/kaumil/emof_ai">https://github.com/kaumil/emof_ai</a></p>
+    <ul class="tags">
+    
+      <li><a class="tag" href="https://kaumil.github.io/tags/convolutional-neural-networks">Convolutional Neural Networks</a></li>
+    
+      <li><a class="tag" href="https://kaumil.github.io/tags/keras">Keras</a></li>
+    
+      <li><a class="tag" href="https://kaumil.github.io/tags/flask">Flask</a></li>
+    
+      <li><a class="tag" href="https://kaumil.github.io/tags/matplotlib">Matplotlib</a></li>
+    
+      <li><a class="tag" href="https://kaumil.github.io/tags/opencv">OpenCV</a></li>
+    
+</ul>
+
+  </div>
+</section>
+
+      </div>
+      <div class="col-1">
+        <div class="chatbot" id="chatbox" style="top:10;">
+    <div class="row chat-window col-xs-5 col-md-3 pull-right" id="chat_window_1">
+        <div class="col-xs-12 col-md-12">
+            <div class="panel panel-default" id="panel">
+                <div class="top-bar">
+                    <div class="col-md-8 col-xs-8">
+                        <h3 class="panel-title">Chat Window </h3>
+                        <i class="fa fa-microphone btn-m" id="sym-microphone"></i>
+                    </div>
+                </div>
+                <div id="messagebody" class="panel-body msg_container_base">
+                    <div class="row msg_container base_receive">
+                        <div class="col-md-10 col-xs-10">
+                            <div class="messages msg_receive">
+                                <p>Hi, Thanks for visiting my portfolio! Feel free to ask my bot any questions about
+                                    me!<br />Eg. What are your skills?</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+            <div class="panel-footer" id="panel-footer">
+                <div class="input-group">
+                    <input id="btn-input" type="text" class="form-control input-sm chat_input"
+                        placeholder="Say something..." required="required" />
+                    <i class="fa fa-microphone input-group-btn btn btn-primary btn-m chatbot-microphone"
+                        id="btn-microphone"></i>
+                    <span class="input-group-btn">
+                        <button class="btn btn-primary btn-sm chatbot-send" id="btn-chat">Send</button>
+                    </span>
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+
+
+
+    <div class="chatbot">
+        <ul class="list-inline list-social-icons mb-0">
+            <li class="list-inline-item">
+                <a><span class="iconify fa-stack fa-lg chatbot_icon" id="chatbot_icon" data-id="chat_window_1"
+                        data-icon="wpf:assistant" data-toggle="tooltip" data-offset="0 10" rel="me"
+                        data-inline="false"></span></a>
+            </li>
+        </ul>
+    </div>
+      </div>
+
+    
+  </div>
+  
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script async src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0/js/bootstrap.bundle.min.js"></script>
+
+  <script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
+
+
+  
+  <script async src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.4.1/jquery.easing.min.js"></script>
+  
+  <script async src="https://kaumil.github.io/js/resume.js"></script>
+  <script async src="https://kaumil.github.io/js/chatbot.js"></script>
+  <script async src="https://kaumil.github.io/js/microphone.js"></script>
+  <script src="https://kaumil.github.io/js/lightbox-plus-jquery.min.js"></script>
+  <script async src="https://www.googletagmanager.com/gtag/js?id="></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', '');
+  </script>
+  
+
+  
+</body>
+</html>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Keras on Kaumil Trivedi</title>
+    <link>https://kaumil.github.io/tags/keras/</link>
+    <description>Recent content in Keras on Kaumil Trivedi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 11 Feb 2018 12:41:05 -0500</lastBuildDate><atom:link href="https://kaumil.github.io/tags/keras/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Emof_AI</title>
+      <link>https://kaumil.github.io/projects/creations/emofai/</link>
+      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
+      
+      <guid>https://kaumil.github.io/projects/creations/emofai/</guid>
+      <description>Emof_ai is a web API which takes a sample video as an input, detects all the faces in each frame of the video and performs classfication. It classifies the emotion of the face into 1 of 8 emotions viz anger, disgust, fear, happy, sad, surprise, neutral and none(this is when there are no faces detected in the frame at all and hence none means no emotion detected in the frame at all).</description>
+    </item>
+    
+  </channel>
+</rss>

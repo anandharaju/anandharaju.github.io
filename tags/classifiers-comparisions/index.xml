@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Classifiers comparisions on Kaumil Trivedi</title>
+    <link>https://kaumil.github.io/tags/classifiers-comparisions/</link>
+    <description>Recent content in Classifiers comparisions on Kaumil Trivedi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 11 Feb 2018 12:41:05 -0500</lastBuildDate><atom:link href="https://kaumil.github.io/tags/classifiers-comparisions/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fraud Detection</title>
+      <link>https://kaumil.github.io/projects/creations/frauddetection/</link>
+      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
+      
+      <guid>https://kaumil.github.io/projects/creations/frauddetection/</guid>
+      <description>Performed Exploratory Analysis on fraud detection dataset and tried to find interaction terms. Moreover, compared various classifiers offered by the scikit-learn library. Classifiers used are:
+ Support Vector Classifier (with RBF Kernel) Support Vector Classifier (with Linear Kernel) Random Forests Bagging Classifier Logistic Regression KNN Classifier LDA Classifier GaussianNB Classifier DecisionTree Classifier GradientBoosting Classifier XGBoost Classifier Extra Trees Classifier  </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>TfServing on Kaumil Trivedi</title>
+    <link>https://kaumil.github.io/tags/tfserving/</link>
+    <description>Recent content in TfServing on Kaumil Trivedi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://kaumil.github.io/tags/tfserving/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sentiment Analyzer</title>
+      <link>https://kaumil.github.io/projects/creations/cnn_sentiment_analysis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kaumil.github.io/projects/creations/cnn_sentiment_analysis/</guid>
+      <description>Sentiment Analyzer is a ML model as a service made using Flask micro framework. The task is a binary classification problem where I employed CNNs to have a validation accuracy of 84.73% and validation loss of 0.3624. The application serves 2 pipeline: 1 pipeline where the model versions are trained using the jupyter notebook in the sentiment_analysis subfolder. The second pipeline is the inference pipeline where using a config file, Tensorflow Serving is used to deploy that model on a different docker container.</description>
+    </item>
+    
+  </channel>
+</rss>

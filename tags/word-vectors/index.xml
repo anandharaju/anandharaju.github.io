@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Word Vectors on Kaumil Trivedi</title>
+    <link>https://kaumil.github.io/tags/word-vectors/</link>
+    <description>Recent content in Word Vectors on Kaumil Trivedi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://kaumil.github.io/tags/word-vectors/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Natural Language Processing by IIT Kharagpur</title>
+      <link>https://kaumil.github.io/certifications/nptelnlp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kaumil.github.io/certifications/nptelnlp/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

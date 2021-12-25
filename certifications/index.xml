@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Certifications on Kaumil Trivedi</title>
+    <link>https://kaumil.github.io/certifications/</link>
+    <description>Recent content in Certifications on Kaumil Trivedi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 07 Jan 2020 16:47:30 +0000</lastBuildDate><atom:link href="https://kaumil.github.io/certifications/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Advanced MySQL: MySQL Data Analysis &amp; Business Intelligence</title>
+      <link>https://kaumil.github.io/certifications/advancedmysql/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kaumil.github.io/certifications/advancedmysql/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AWS Certified Developer Associate</title>
+      <link>https://kaumil.github.io/certifications/awsdeveloperassociate/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kaumil.github.io/certifications/awsdeveloperassociate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Structures and Algorithms using Python by IIT Madras</title>
+      <link>https://kaumil.github.io/certifications/nptelpython/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kaumil.github.io/certifications/nptelpython/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Learning Specialization by deeplearning.ai</title>
+      <link>https://kaumil.github.io/certifications/deeplearningspecialization/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kaumil.github.io/certifications/deeplearningspecialization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine Learning by Stanford University</title>
+      <link>https://kaumil.github.io/certifications/courseramachinelearning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kaumil.github.io/certifications/courseramachinelearning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Natural Language Processing by IIT Kharagpur</title>
+      <link>https://kaumil.github.io/certifications/nptelnlp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kaumil.github.io/certifications/nptelnlp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Python 3: Deep Dive (Part 1-Functional)</title>
+      <link>https://kaumil.github.io/certifications/pythondeepdive1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kaumil.github.io/certifications/pythondeepdive1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spark and Python for Big Data with PySpark</title>
+      <link>https://kaumil.github.io/certifications/udemysparkpython/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kaumil.github.io/certifications/udemysparkpython/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Statistical Learning</title>
+      <link>https://kaumil.github.io/certifications/stanfordstatisticallearning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kaumil.github.io/certifications/stanfordstatisticallearning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Taming Big Data with Apache Spark and Python - Hands On!</title>
+      <link>https://kaumil.github.io/certifications/udemytamingbigdata/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kaumil.github.io/certifications/udemytamingbigdata/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

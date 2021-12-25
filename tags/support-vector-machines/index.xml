@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Support Vector Machines on Kaumil Trivedi</title>
+    <link>https://kaumil.github.io/tags/support-vector-machines/</link>
+    <description>Recent content in Support Vector Machines on Kaumil Trivedi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 28 Sep 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://kaumil.github.io/tags/support-vector-machines/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Hybrid Binary Classifier for Pattern Classification</title>
+      <link>https://kaumil.github.io/publications/binaryclassifier/</link>
+      <pubDate>Sat, 28 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://kaumil.github.io/publications/binaryclassifier/</guid>
+      <description>In this work, we propose a hybrid binary classifier which combines a decision tree with a support vector machine. The proposed hybrid model has the advantages of improved accuracy and easy interpretability. The model will be useful for feature selection cum classification tasks in real-world supervised learning problems. Numerical evidence is also provided using 25 standard data sets from various fields to assess the performance of the model. Performance of the proposed hybrid binary classifier is quite better when compared to individual classifiers.</description>
+    </item>
+    
+  </channel>
+</rss>
