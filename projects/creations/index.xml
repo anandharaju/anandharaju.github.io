@@ -1,84 +1,100 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects on Kaumil Trivedi</title>
-    <link>https://kaumil.github.io/projects/creations/</link>
-    <description>Recent content in Projects on Kaumil Trivedi</description>
+    <title>Certifications on Anandharaju Durai Raju</title>
+    <link>https://anandharaju.github.io/certifications/</link>
+    <description>Recent content in Certifications on Anandharaju Durai Raju</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 07 Jan 2020 15:00:28 +0000</lastBuildDate><atom:link href="https://kaumil.github.io/projects/creations/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 07 Jan 2020 16:47:30 +0000</lastBuildDate><atom:link href="https://anandharaju.github.io/certifications/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Advanced Regression techniques on House pricing datasets</title>
-      <link>https://kaumil.github.io/projects/creations/advancedregression/</link>
-      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
-      
-      <guid>https://kaumil.github.io/projects/creations/advancedregression/</guid>
-      <description>Performed EDA on the Advanced Regression: House pricing dataset on Kaggle. Examined various properties like normality, skewness, kurtosis as well as performed log transformations and analyzed the differences using a normal probability plot.</description>
-    </item>
-    
-    <item>
-      <title>Emof_AI</title>
-      <link>https://kaumil.github.io/projects/creations/emofai/</link>
-      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
-      
-      <guid>https://kaumil.github.io/projects/creations/emofai/</guid>
-      <description>Emof_ai is a web API which takes a sample video as an input, detects all the faces in each frame of the video and performs classfication. It classifies the emotion of the face into 1 of 8 emotions viz anger, disgust, fear, happy, sad, surprise, neutral and none(this is when there are no faces detected in the frame at all and hence none means no emotion detected in the frame at all).</description>
-    </item>
-    
-    <item>
-      <title>Event Analysis using Spark and Elasticsearch</title>
-      <link>https://kaumil.github.io/projects/creations/data_analysis_using_spark_and_elasticsearch/</link>
-      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
-      
-      <guid>https://kaumil.github.io/projects/creations/data_analysis_using_spark_and_elasticsearch/</guid>
-      <description>The aim of this project is to create a data pipeline to ingest, process and analyze data from a remote location. We would use Apache Nifi, a dataflow tool to ingest the data and store it in HDFS. Following that, we would analyze the stored files using Apache Spark and send those files to the Elasticsearch cluster. Furthermore, the entire workflow is containerized to facilitate faster deployments.</description>
-    </item>
-    
-    <item>
-      <title>Fraud Detection</title>
-      <link>https://kaumil.github.io/projects/creations/frauddetection/</link>
-      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
-      
-      <guid>https://kaumil.github.io/projects/creations/frauddetection/</guid>
-      <description>Performed Exploratory Analysis on fraud detection dataset and tried to find interaction terms. Moreover, compared various classifiers offered by the scikit-learn library. Classifiers used are:
- Support Vector Classifier (with RBF Kernel) Support Vector Classifier (with Linear Kernel) Random Forests Bagging Classifier Logistic Regression KNN Classifier LDA Classifier GaussianNB Classifier DecisionTree Classifier GradientBoosting Classifier XGBoost Classifier Extra Trees Classifier  </description>
-    </item>
-    
-    <item>
-      <title>Molecular Classification of Cancer by Gene Expression Monitoring</title>
-      <link>https://kaumil.github.io/projects/creations/molecularclassification/</link>
-      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
-      
-      <guid>https://kaumil.github.io/projects/creations/molecularclassification/</guid>
-      <description>Analysis of the 20 NewsGroup Dataset followed by lemmatization and k-means clustering and non-negative matrix factorization for topic modelling</description>
-    </item>
-    
-    <item>
-      <title>Topic Modeling</title>
-      <link>https://kaumil.github.io/projects/creations/topicmodeling/</link>
-      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
-      
-      <guid>https://kaumil.github.io/projects/creations/topicmodeling/</guid>
-      <description>Analysis of the 20 NewsGroup Dataset followed by lemmatization and k-means clustering and non-negative matrix factorization for topic modelling</description>
-    </item>
-    
-    <item>
-      <title>Blogging website</title>
-      <link>https://kaumil.github.io/projects/creations/flask_microblog/</link>
+      <title>Advanced MySQL: MySQL Data Analysis &amp; Business Intelligence</title>
+      <link>https://anandharaju.github.io/certifications/advancedmysql/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://kaumil.github.io/projects/creations/flask_microblog/</guid>
-      <description>Established a mechanism for a user to follow different people and have the posts of the followed people on the home page. Established an &amp;ldquo;Explore&amp;rdquo; feature where a user can explore different posts from all the users on the website in a descending order of the post timestamp. Established a &amp;ldquo;Search&amp;rdquo; feature using Elasticsearch where people can search for a keyword and have relevant posts displayed.
-Github link: https://github.com/kaumil/flask-blog</description>
+      <guid>https://anandharaju.github.io/certifications/advancedmysql/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Sentiment Analyzer</title>
-      <link>https://kaumil.github.io/projects/creations/cnn_sentiment_analysis/</link>
+      <title>AWS Certified Developer Associate</title>
+      <link>https://anandharaju.github.io/certifications/awsdeveloperassociate/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://kaumil.github.io/projects/creations/cnn_sentiment_analysis/</guid>
-      <description>Sentiment Analyzer is a ML model as a service made using Flask micro framework. The task is a binary classification problem where I employed CNNs to have a validation accuracy of 84.73% and validation loss of 0.3624. The application serves 2 pipeline: 1 pipeline where the model versions are trained using the jupyter notebook in the sentiment_analysis subfolder. The second pipeline is the inference pipeline where using a config file, Tensorflow Serving is used to deploy that model on a different docker container.</description>
+      <guid>https://anandharaju.github.io/certifications/awsdeveloperassociate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Structures and Algorithms using Python by IIT Madras</title>
+      <link>https://anandharaju.github.io/certifications/nptelpython/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://anandharaju.github.io/certifications/nptelpython/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Learning Specialization by deeplearning.ai</title>
+      <link>https://anandharaju.github.io/certifications/deeplearningspecialization/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://anandharaju.github.io/certifications/deeplearningspecialization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine Learning by Stanford University</title>
+      <link>https://anandharaju.github.io/certifications/courseramachinelearning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://anandharaju.github.io/certifications/courseramachinelearning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Natural Language Processing by IIT Kharagpur</title>
+      <link>https://anandharaju.github.io/certifications/nptelnlp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://anandharaju.github.io/certifications/nptelnlp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Python 3: Deep Dive (Part 1-Functional)</title>
+      <link>https://anandharaju.github.io/certifications/pythondeepdive1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://anandharaju.github.io/certifications/pythondeepdive1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spark and Python for Big Data with PySpark</title>
+      <link>https://anandharaju.github.io/certifications/udemysparkpython/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://anandharaju.github.io/certifications/udemysparkpython/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Statistical Learning</title>
+      <link>https://anandharaju.github.io/certifications/stanfordstatisticallearning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://anandharaju.github.io/certifications/stanfordstatisticallearning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Taming Big Data with Apache Spark and Python - Hands On!</title>
+      <link>https://anandharaju.github.io/certifications/udemytamingbigdata/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://anandharaju.github.io/certifications/udemytamingbigdata/</guid>
+      <description></description>
     </item>
     
   </channel>
