@@ -1,3 +1,8 @@
+test-icon-size {
+  padding-left: 17rem;
+  font-size: 60px !important;
+}
+
 body {
   font-family: 'Open Sans', serif;
   padding-top: 54px;
