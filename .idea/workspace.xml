@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="80e1343a-f482-4280-86e1-9c37d42c9454" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/admin/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/admin/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/lockboost.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/img/lockboost.png" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -52,8 +51,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="607">
-              <caret line="603" column="10" selection-start-line="603" selection-start-column="10" selection-end-line="603" selection-end-column="10" />
+            <state relative-caret-position="1908">
+              <caret line="587" column="41" lean-forward="true" selection-start-line="587" selection-start-column="41" selection-end-line="587" selection-end-column="41" />
             </state>
           </provider>
         </entry>
@@ -372,8 +371,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="607">
-          <caret line="603" column="10" selection-start-line="603" selection-start-column="10" selection-end-line="603" selection-end-column="10" />
+        <state relative-caret-position="1908">
+          <caret line="587" column="41" lean-forward="true" selection-start-line="587" selection-start-column="41" selection-end-line="587" selection-end-column="41" />
         </state>
       </provider>
     </entry>
