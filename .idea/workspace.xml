@@ -2,12 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="80e1343a-f482-4280-86e1-9c37d42c9454" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/anand_profile.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/infosys.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/new.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/sfu.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/publications/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/publications/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -39,8 +33,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/publications/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="185">
-              <caret line="482" column="86" selection-start-line="482" selection-start-column="86" selection-end-line="482" selection-end-column="86" />
+            <state relative-caret-position="493">
+              <caret line="574" column="67" selection-start-line="574" selection-start-column="67" selection-end-line="574" selection-end-column="67" />
             </state>
           </provider>
         </entry>
@@ -175,6 +169,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
   </component>
@@ -342,8 +337,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/publications/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="185">
-          <caret line="482" column="86" selection-start-line="482" selection-start-column="86" selection-end-line="482" selection-end-column="86" />
+        <state relative-caret-position="493">
+          <caret line="574" column="67" selection-start-line="574" selection-start-column="67" selection-end-line="574" selection-end-column="67" />
         </state>
       </provider>
     </entry>
