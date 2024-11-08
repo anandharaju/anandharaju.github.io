@@ -51,8 +51,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="298">
-              <caret line="688" column="197" selection-start-line="688" selection-start-column="197" selection-end-line="688" selection-end-column="197" />
+            <state relative-caret-position="230">
+              <caret line="843" column="91" selection-start-line="843" selection-start-column="91" selection-end-line="843" selection-end-column="91" />
             </state>
           </provider>
         </entry>
@@ -160,6 +160,17 @@
               <item name="github_profile" type="b2602c69:ProjectViewProjectNode" />
               <item name="github_profile" type="462c0819:PsiDirectoryNode" />
               <item name="img" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="github_profile" type="b2602c69:ProjectViewProjectNode" />
+              <item name="github_profile" type="462c0819:PsiDirectoryNode" />
+              <item name="tags" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="github_profile" type="b2602c69:ProjectViewProjectNode" />
+              <item name="github_profile" type="462c0819:PsiDirectoryNode" />
+              <item name="tags" type="462c0819:PsiDirectoryNode" />
+              <item name="convolutional-neural-networks" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -349,10 +360,15 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/tags/convolutional-neural-networks/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-108" />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="298">
-          <caret line="688" column="197" selection-start-line="688" selection-start-column="197" selection-end-line="688" selection-end-column="197" />
+        <state relative-caret-position="230">
+          <caret line="843" column="91" selection-start-line="843" selection-start-column="91" selection-end-line="843" selection-end-column="91" />
         </state>
       </provider>
     </entry>
