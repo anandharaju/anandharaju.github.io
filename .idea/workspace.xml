@@ -52,7 +52,10 @@
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="185">
-              <caret line="842" column="179" selection-start-line="842" selection-start-column="179" selection-end-line="842" selection-end-column="179" />
+              <caret line="842" column="59" selection-start-line="842" selection-start-column="59" selection-end-line="842" selection-end-column="59" />
+              <folding>
+                <element signature="e#45220#45226#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -368,7 +371,10 @@
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="185">
-          <caret line="842" column="179" selection-start-line="842" selection-start-column="179" selection-end-line="842" selection-end-column="179" />
+          <caret line="842" column="59" selection-start-line="842" selection-start-column="59" selection-end-line="842" selection-end-column="59" />
+          <folding>
+            <element signature="e#45220#45226#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
